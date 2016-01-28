@@ -1,0 +1,94 @@
+body {
+	 font: 20px Montserrat, sans-serif;
+     line-height: 1.8;
+     color: #f5f6f7;
+}
+
+.navbar {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 12px;
+	letter-spacing: 5px;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+}
+
+.navbar li a:hover {
+	color: #1abc9c !important;
+}
+
+p {
+	font-size: 16px;
+}
+
+.margin { 
+	margin-bottom: 45px;
+}
+
+#email {
+	color: #808080;
+}
+
+/*============== BACKGROUNDS =============*/
+.bg-1 {
+	 background-color: #1abc9c; /* Green */
+      color: #ffffff;
+}
+
+.bg-2 { 
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+
+ .bg-3 { 
+    background-color: #f5b25a;
+    color: #ffffff;
+  }
+
+.bg-4 { 
+      background-color: #2f2f2f;
+      color: #ffffff;
+  }
+
+  /*============= CONTAINER FLUID ==============*/
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+      
+  }
+
+  /*============== IMG ===============*/
+  img#profile {
+  	display: inline;
+  	width: 350px;
+  	height: 350px;
+  }
+
+  img.profile {
+  	display: inline;
+  	width: 350px;
+  	height: 350px;
+  }
+
+  img.minilogo {
+  	display: inline;
+  	width: 175px;
+  	height: 175px;
+  }
+
+
+  /*========== ICONS =========*/
+
+
+  /*=========== FOOTER ===========*/
+  footer {
+  	background-color: #f5f6f7;
+  	color: #808080;
+  	font-size: 14px;
+  	height: 30px;
+  	height: 40px;
+  	padding: 10px 10px;
+
+
+  }
